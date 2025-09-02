@@ -1,0 +1,7 @@
+[
+  {
+    "name": "binsync/binsync",
+    "auto_update": true,
+    "subdir": "binsync/stub_files"
+  }
+]
